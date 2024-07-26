@@ -10,7 +10,7 @@
     "url": "https://theonegamestudio.com/"
   },
   "dependencies": {
-    "https://github.com/The1Studio/NativeAds.git?path=Assets/NativeAds": "1.0.0"
+    "com.theone.native_ads": "https://github.com/The1Studio/NativeAds.git?path=Assets/NativeAds"
   },
   "keywords": [
     "PubScale",
