@@ -1,0 +1,20 @@
+{
+    "name": "PubScale.NativeAds.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3a03f9de984c33d4daceacbe717da0f7",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:c83d3652a0abab947a36e75a5795b8fd"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
