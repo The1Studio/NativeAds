@@ -9,5 +9,13 @@
     "email": "tuha@the1studio.org",
     "url": "https://theonegamestudio.com/"
   },
+  "dependencies": {
+    "https://github.com/The1Studio/NativeAds.git?path=Assets/NativeAds": "1.0.0"
+  },
+  "keywords": [
+    "PubScale",
+    "NativeAds",
+    "Google"
+  ],
   "license": "MIT"
 }
