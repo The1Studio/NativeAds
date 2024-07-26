@@ -6,5 +6,5 @@ https://github.com/The1Studio/NativeAds.git?path=Assets/NativeAds
 ```
 Install PubScale via UPM: 
 ```sh
-https://github.com/The1Studio/NativeAds.git?path=Assets/PubScaleSDK
+https://github.com/The1Studio/NativeAds.git?path=Assets/PubscaleSDK
 ```
