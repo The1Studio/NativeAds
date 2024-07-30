@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: PubScaleSettings
   m_EditorClassIdentifier: 
   UseTestMode: 1
-  Fallback_NativeAdID_Android: ca-app-pub-9819920607806935/2805141942
+  Fallback_NativeAdID_Android: 
   Fallback_NativeAdID_IOS: 
-  AppID_Android: 17948638
+  AppID_Android: 
   AppID_IOS: 
-  AppID: 17948638
+  AppID: 
   IsFirstTimeUsingTheAsset: 0
