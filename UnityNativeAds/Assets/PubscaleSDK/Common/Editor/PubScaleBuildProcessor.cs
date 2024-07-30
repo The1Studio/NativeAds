@@ -42,7 +42,7 @@ public class PubScaleBuildProcessor : IPreprocessBuildWithReport, IPostprocessBu
         CompilationPipeline.compilationFinished += CompilationPipelineOnCompilationFinished;
 
         LoadPubScaleSettings();
-        PerformPubScaleBuildChecks();
+        // PerformPubScaleBuildChecks();
     }
 
     private static void CompilationPipelineOnCompilationStarted(object compilationContext)
