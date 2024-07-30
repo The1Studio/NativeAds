@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PubscaleSDK/NativeAds/Demo/Quick Start.unity
+    guid: 074d564e227a1724b982c3c45cff93d3
   m_configObjects: {}

@@ -161,7 +161,9 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.DefaultCompany.NativeAds
     Standalone: com.DefaultCompany.NativeAds
+    iPhone: com.DefaultCompany.NativeAds
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -835,7 +837,9 @@ PlayerSettings:
   webGLMemoryGeometricGrowthStep: 0.2
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Android: IMMERSIVE_ADS;ADMOB_NATIVE_ADS
+    Standalone: IMMERSIVE_ADS;ADMOB_NATIVE_ADS
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}

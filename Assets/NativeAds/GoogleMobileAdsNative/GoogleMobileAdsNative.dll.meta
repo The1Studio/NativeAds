@@ -11,6 +11,7 @@ PluginImporter:
   executionOrder: {}
   defineConstraints:
   - ADMOB_NATIVE_ADS
+  - IMMERSIVE_ADS
   isPreloaded: 0
   isOverridable: 0
   isExplicitlyReferenced: 0
